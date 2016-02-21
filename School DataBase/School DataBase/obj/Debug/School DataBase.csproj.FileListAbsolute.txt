@@ -1,0 +1,28 @@
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\bin\Debug\School DataBase.exe.config
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\bin\Debug\School DataBase.exe
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\bin\Debug\School DataBase.pdb
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.Properties.Resources.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School DataBase.csproj.GenerateResource.Cache
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School DataBase.exe
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School DataBase.pdb
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\bin\Debug\School1.mdf
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\bin\Debug\School1_log.ldf
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.ClassAdder.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.ClassForm.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.StudyYear.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.ClassList.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.ClassListAdd.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.MakeQuery.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.FirstStat.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.SecondStat.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.ThirdStat.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.Report1.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\RdlCompile.cache
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\RdlCompile.compiled
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.Report2.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.Subject.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.SubjectAdder.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.SubPerClass.resources
+C:\Users\Danylo\Desktop\DataBase COURSACH\School DataBase\School DataBase\obj\Debug\School_DataBase.SPClAdd.resources
